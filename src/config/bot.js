@@ -22,7 +22,7 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [
+    activities: [0]
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "Made with Alanya Rp❤️",
